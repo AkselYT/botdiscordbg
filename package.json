@@ -1,0 +1,12 @@
+{
+  "name": "bot",
+  "version": "0.1.0",
+  "description": "Projet Discord Bot",
+  "main": "main.js",
+  "repository": "https://github.com/AkselYT/botdiscordbg.git",
+  "author": "Aksel <yunam.ait@g.cvmarie.qc.ca>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "discordjs/discord.js"
+  }
+}
